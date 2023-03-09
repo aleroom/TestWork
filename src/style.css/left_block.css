@@ -1,0 +1,18 @@
+.left_block {
+    width: 138px;
+    height: 481px;
+    background-color: #5A61ED;
+}
+.description {
+    color: #FFFFFF;
+    writing-mode: vertical-rl;
+    transform: scale(-1);
+    font-weight: 400;
+    font-size: 49px;
+    display: block;
+    justify-content: end;
+    /* display: flex;
+    justify-content: flex-end;
+    align-items: flex-end; */
+}
+
