@@ -8,3 +8,12 @@
     display: block;
     margin: auto;
 }
+.full_name, .info {
+    display: flex;
+    width: 486px;
+    height: 42px;
+}
+.first_name, .info_nationality, .date_of_bday {
+    width: 243px;
+}
+
